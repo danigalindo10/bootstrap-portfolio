@@ -1,4 +1,4 @@
-/* .navbar-brand {
+.navbar-brand {
   padding-top: var(--bs-navbar-brand-padding-y);
   padding-bottom: var(--bs-navbar-brand-padding-y);
   margin-right: var(--bs-navbar-brand-margin-end);
@@ -13,4 +13,4 @@
   height: 8px;
   color: #c1c7d0;
   border-radius: 50%;
-} *
+} 
